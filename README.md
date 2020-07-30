@@ -7,11 +7,11 @@
   <li>Birthplace : Bani, Pangasinan</li>
   <li>Nationality : Filipino</li>
   <li>Religion : Roman Catholic</li>
-ul>
+<ul>
 
 <h3>Hobbies / Interest</h3>
 
-<ul>
+<ol>
   <li>Games</li>
   <li>Movies</li>
   <li>Reading</li>
@@ -20,7 +20,7 @@ ul>
   <li>Dancing</li>
   <li>Instrument</li>
   <li>Voleyball</li>
-</ul>
+</ol>
 
 <h3>Contact</h3>
 
