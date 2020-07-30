@@ -4,39 +4,28 @@
 <ul>
   <li>Age : 19 years old</li>
   <li>Birthdate : August 03, 2000</li>
-  <li>Birthplace</li>
-  <li></li>
-  <li></li>
+  <li>Birthplace : Bani, Pangasinan</li>
+  <li>Nationality : Filipino</li>
+  <li>Religion : Roman Catholic</li>
 ul>
 
-### Markdown
+<h3>Hobbies / Interest</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ol>
+  <li>Games</li>
+  <li>Movies</li>
+  <li>Reading</li>
+  <li>Music</li>
+  <li>Designing</li>
+  <li>Dancing</li>
+  <li>Instrument</li>
+  <li>Voleyball</li>
+</ol>
 
-```markdown
-Syntax highlighted code block
+<h3>Contact</h3>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joykaye/joykayee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul>
+  <li>Phone number : 09277064647</li>
+  <li>Gmail : joykaye03@gmail.com</li>
+  <li>Facebook : <a href="https://www.facebook.com/joykaye.talania.3">Joy Kaye Purganan Talania</a></li>
+</ul>
