@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+<h2>Talania, Joy Kaye Purganan</h2>
 
-You can use the [editor on GitHub](https://github.com/joykaye/joykayee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>About : </h3>
+<ul>
+  <li>Age : 19 years old</li>
+  <li>Birthdate : August 03, 2000</li>
+  <li>Birthplace</li>
+  <li></li>
+  <li></li>
+ul>
 
 ### Markdown
 
