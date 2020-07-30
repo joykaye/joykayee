@@ -11,7 +11,7 @@ ul>
 
 <h3>Hobbies / Interest</h3>
 
-<ol>
+<ul>
   <li>Games</li>
   <li>Movies</li>
   <li>Reading</li>
@@ -20,7 +20,7 @@ ul>
   <li>Dancing</li>
   <li>Instrument</li>
   <li>Voleyball</li>
-</ol>
+</ul>
 
 <h3>Contact</h3>
 
