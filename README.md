@@ -8,9 +8,7 @@
   <li>Nationality : Filipino</li>
   <li>Religion : Roman Catholic</li>
 <ul>
-
 <h3>Interest</h3>
-
 <ul>
   <li>Playing Games</li>
   <li>Watching Movies</li>
