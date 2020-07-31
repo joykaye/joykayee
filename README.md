@@ -11,16 +11,20 @@
 <h3>Interest</h3>
 <ul>
   <li>Playing Games</li>
-  <li>Watching Movies</li>
+  <p>When I am bored I usually playing games and keep myself busy.</p>
   <li>Reading</li>
+  <p>I just read some books or newspaper to cal myself when there's a lot of thingsto worry about.</p>
   <li>Listening to Music</li>
-  <li>Designing</li>
+  <p>I listen to different genres of music to relax my mind.</p>
 </ul>
 <ul>
 <h3>Hobbies</h3>
   <li>Dancing</li>
+  <p>Dancing is my one of my favorite hobby since when I was a kid because when I was in grade school we compete on our town specially when we celebrate our festival or fiesta.</p>
   <li>Playing Musical Instrument</li>
+  <p>I usually do it when I have to practice somethingg new, just like when there's a new song and I like that so I play organss or piano and a little bit of guitar.</p>
   <li>Voleyball</li>
+  <p>Volleyball is my favorite sport and when summer we play vollyball with my cousins.</p>
 </ul>
 
 <h3>Contact Information</h3>
