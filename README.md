@@ -11,19 +11,19 @@
 
 <h3>Interest</h3>
 
-<ol>
+<ul>
   <li>Playing Games</li>
   <li>Watching Movies</li>
   <li>Reading</li>
   <li>Listening to Music</li>
   <li>Designing</li>
-</ol>
-<ol>
+</ul>
+<ul>
 <h3>Hobbies</h3>
   <li>Dancing</li>
   <li>Playing Musical Instrument</li>
   <li>Voleyball</li>
-</ol>
+</ul>
 
 <h3>Contact Information</h3>
 
