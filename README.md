@@ -4,25 +4,28 @@
 <ul>
   <li>Age : 19 years old</li>
   <li>Birthdate : August 03, 2000</li>
-  <li>Birthplace : Bani, Pangasinan</li>
+  <li>Birthplace : Alaminos City, Pangasinan</li>
   <li>Nationality : Filipino</li>
   <li>Religion : Roman Catholic</li>
 <ul>
 
-<h3>Hobbies / Interest</h3>
+<h3>Interest</h3>
 
 <ol>
-  <li>Games</li>
-  <li>Movies</li>
+  <li>Playing Games</li>
+  <li>Watching Movies</li>
   <li>Reading</li>
-  <li>Music</li>
+  <li>Listening to Music</li>
   <li>Designing</li>
+</ol>
+<ol>
+<h3>Hobbies</h3>
   <li>Dancing</li>
-  <li>Instrument</li>
+  <li>Playing Musical Instrument</li>
   <li>Voleyball</li>
 </ol>
 
-<h3>Contact</h3>
+<h3>Contact Information</h3>
 
 <ul>
   <li>Phone number : 09277064647</li>
